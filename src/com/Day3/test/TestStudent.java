@@ -30,6 +30,21 @@ public class TestStudent {
 		//subString
 		String str2 = "Hello Raja";
 		System.out.println(str2.substring(1,4));
+		// StringBuffer
+	//		append()
+	//		insert()
+	//		delete()
+	//		replace()
+	//		reverse()
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		// boxing
 //		int num =10;
 //		Integer obj = num;
