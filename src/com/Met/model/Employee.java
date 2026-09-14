@@ -72,6 +72,10 @@ public class Employee implements Serializable {
 		return "[ id=" + id + ", name=" + name + ", mobno=" + mobno + ", email=" + email + ", department="
 				+ department + ", designation=" + designation + ", salary=" + salary + "]";
 	}
+	public void calcSalary() {
+		// TODO Auto-generated method stub
+		
+	}
 	
 	
 	
