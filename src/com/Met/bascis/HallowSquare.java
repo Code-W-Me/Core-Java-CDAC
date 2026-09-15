@@ -5,7 +5,7 @@ public class HallowSquare {
 	public static void main(String[] args) {
 		for(int i=1;i<=5;i++) {
 			if(i==3) {
-				System.out.println("*Java   * ");
+				System.out.print("Java");
 			}
 //			System.out.println("  ");
 			for(int j=1;j<=5;j++) {
