@@ -57,10 +57,7 @@ public class TestArrays {
 			}
 			ob2.rotateArray(true, 1);
 			System.out.println(ob2);
-			
-			
-			
-		
+	
 		
 		
 //		MyArrays arr = new MyArrays();
